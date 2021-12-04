@@ -1,0 +1,7 @@
+## carpetas a ignorar
+__pycache__/
+data/
+results/
+## archivos a ignorar
+*.csv
+utils/*.txt
